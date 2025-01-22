@@ -1,2 +1,3 @@
 # Excel_Project
-Analyzed Store Dataset to Evaluate Regional Performance, Identify Top 5 Products, and Explore Trends Over Time
+Overview:
+This project analyzes a store dataset to assess regional performance, identify the top 5 products, and explore trends over time. The dataset includes sales data from multiple regions, with information on product names, categories, subcategories, purchase months and years, customer names and segments, city, zip codes, shipping modes, and product IDs.
